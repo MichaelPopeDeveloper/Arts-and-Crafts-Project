@@ -1,0 +1,78 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: white;
+
+}
+
+#header {
+	background-image: url("../resources/pattern.jpeg");
+	text-align: center;
+
+}
+
+#header-text {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+
+}
+
+#brushes {
+
+}
+
+#brushes-subheader {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+
+#brushes-blue-text {
+	font-family: Helvetica;
+	color: blue;
+	font-weight: bold;
+}
+
+
+#frames {
+
+}
+
+#frames-subheader {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+
+#frames-blue-text {
+	font-family: Helvetica;
+	color: blue;
+	font-weight: bold;
+}
+
+#paint {
+
+}
+
+#paint-subheader {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: skyblue;
+}
+
+#paint-blue-text {
+	font-family: Helvetica;
+	color: blue;
+	font-weight: bold;
+}
